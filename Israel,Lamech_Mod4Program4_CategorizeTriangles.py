@@ -2,7 +2,7 @@
 # CS 1110A - Programming in Python            #
 # Module 4 - Program 4 - Categorize Triangles #
 # Author: Lamech Israel                       #
-# Date:   01/31/2023                          #
+#                                             #
 ###############################################
 
 
